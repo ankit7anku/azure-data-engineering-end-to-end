@@ -39,4 +39,4 @@ This project aims to demonstrate the seamless integration of various technologie
 
 ## Complete Video link 
 
-Video Link - 
+Video Link - https://youtu.be/EaNk2txqKBI
