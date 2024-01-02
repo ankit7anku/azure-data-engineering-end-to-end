@@ -3,6 +3,7 @@
 This project uses Kafka to implement a comprehensive end-to-end data engineering solution for real-time stock market data. The architecture incorporates various technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL. Building a real-time stock market data engineering project using Kafka involves designing a system to ingest, process, and analyze stock market data in real-time. Apache Kafka, a distributed streaming platform, can be a key component in handling the data streaming aspect of this project. Here's a high-level overview of how you could approach this project
 
 ## Project Architecture 
+https://github.com/ankit7anku/azure-data-engineering-end-to-end/blob/main/Architecture.png
 
 
 
