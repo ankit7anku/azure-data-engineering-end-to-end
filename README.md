@@ -13,7 +13,7 @@ To empower stakeholders with actionable insights, we utilize Power BI for report
 Through this comprehensive Azure Data Engineering project, we not only modernize the data integration process but also enable data-driven decision-making by providing a robust framework for data transformation, analytics, and reporting. The result is a scalable and efficient data infrastructure that empowers organizations to harness the full potential of their data assets.
 
 ## Project Architecture 
-![Architecture-StkMkt](https://github.com/ankit7anku/Stock-Market-Real-Time-Project-Kafka/assets/44068350/b340e580-5e66-4e6f-9371-6cb6db8a188f)
+!(https://github.com/ankit7anku/azure-data-engineering-end-to-end/blob/main/Architecture.png)
 
 
 ## Technologies Utilized
