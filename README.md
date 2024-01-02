@@ -13,7 +13,7 @@ To empower stakeholders with actionable insights, we utilize Power BI for report
 Through this comprehensive Azure Data Engineering project, we not only modernize the data integration process but also enable data-driven decision-making by providing a robust framework for data transformation, analytics, and reporting. The result is a scalable and efficient data infrastructure that empowers organizations to harness the full potential of their data assets.
 
 ## Project Architecture 
-!(https://github.com/ankit7anku/azure-data-engineering-end-to-end/blob/main/Architecture.png)
+![Architecture-StkMkt](https://github.com/ankit7anku/azure-data-engineering-end-to-end/blob/main/Architecture.png)
 
 
 ## Technologies Utilized
